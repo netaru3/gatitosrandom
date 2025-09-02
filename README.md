@@ -7,3 +7,5 @@ este proyecto me sirvió mucho para aprender las apis básicas, usar el fetch, e
 la api que usé para los gatos random fue https://http.cat, la api en si mismo no da imagenes random, así que tuve que hacer truquitos para "randomizarlo" xD.
 
 Espero les gusten los gatos y aprendan un poco de mi proyecto
+
+pd: El frontend lo hice con una IA (claude), el backend lo hice yo xD
